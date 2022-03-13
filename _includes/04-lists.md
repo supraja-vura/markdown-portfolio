@@ -1,4 +1,4 @@
-*age
-*class
-*phone
-*blood
+-age
+-class
+-phone
+-blood
