@@ -1,5 +1,11 @@
 :heart:
 :smile:
 :sparkles:
-:+1:
-:tada:
+1.name
+2.address
+  1.town
+  2.pincode
+*age
+*class
+  *phone
+  *blood
