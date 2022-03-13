@@ -1,0 +1,4 @@
+- age
+- class
+- phone
+- blood
